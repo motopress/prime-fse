@@ -11,7 +11,7 @@
 	return array(
 		array(
             'import_file_name' => 'Prime FSE Demo',
-			'import_file_url' => '',
+			'import_file_url' => 'https://raw.githubusercontent.com/motopress/prime-fse/master/assets/demo-data/prime.xml',
 			'preview_url' => 'https://themes.getmotopress.com/prime',
 		)
 	);
@@ -33,6 +33,8 @@ function prime_fse_ocdi_after_import_setup($selected_import)
     if ( $blog_page ) {
         update_option('page_for_posts', $blog_page->ID);
     }
+
+    update_option('getwid_section_content_width', 1160);
 
 	//update taxonomies
 	$update_taxonomies = array(

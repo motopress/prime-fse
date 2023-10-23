@@ -5118,13 +5118,13 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://themes.getmotopress.com/prime/?p=88</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":45,"url":"https://themes.getmotopress.com/prime/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":45,"url":"/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"About","type":"page","id":52,"url":"https://themes.getmotopress.com/prime/about-us/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"About","type":"page","id":52,"url":"/about-us/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":47,"url":"https://themes.getmotopress.com/prime/blog/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":47,"url":"/blog/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Contacts","type":"page","id":59,"url":"https://themes.getmotopress.com/prime/contact-us/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Contacts","type":"page","id":59,"url":"/contact-us/","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-23 10:14:54]]></wp:post_date>
@@ -5148,27 +5148,27 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://themes.getmotopress.com/prime/?p=3554</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Advanced Spacer","type":"page","id":3479,"url":"https://themes.getmotopress.com/prime/blocks-01/advanced-spacer-wordpress-block/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Advanced Spacer","type":"page","id":3479,"url":"/blocks-01/advanced-spacer-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Banner ","type":"page","id":3462,"url":"https://themes.getmotopress.com/prime/blocks-01/banner-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Banner ","type":"page","id":3462,"url":"/blocks-01/banner-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Button Group","type":"page","id":3471,"url":"https://themes.getmotopress.com/prime/blocks-01/button-group-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Button Group","type":"page","id":3471,"url":"/blocks-01/button-group-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Icon Box","type":"page","id":3450,"url":"https://themes.getmotopress.com/prime/blocks-01/icon-box-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Icon Box","type":"page","id":3450,"url":"/blocks-01/icon-box-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Icon","type":"page","id":3448,"url":"https://themes.getmotopress.com/prime/blocks-01/icon-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Icon","type":"page","id":3448,"url":"/blocks-01/icon-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Image Box","type":"page","id":3452,"url":"https://themes.getmotopress.com/prime/blocks-01/image-box-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Image Box","type":"page","id":3452,"url":"/blocks-01/image-box-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Image Stack Gallery","type":"page","id":3473,"url":"https://themes.getmotopress.com/prime/blocks-01/image-stack-gallery-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Image Stack Gallery","type":"page","id":3473,"url":"/blocks-01/image-stack-gallery-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Instagram","type":"page","id":3477,"url":"https://themes.getmotopress.com/prime/blocks-01/instagram-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Instagram","type":"page","id":3477,"url":"/blocks-01/instagram-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Progress Bar","type":"page","id":3536,"url":"https://themes.getmotopress.com/prime/blocks-03/progress-bar-wordpress-blocks/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Progress Bar","type":"page","id":3536,"url":"/blocks-03/progress-bar-wordpress-blocks/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Social Links","type":"page","id":3460,"url":"https://themes.getmotopress.com/prime/blocks-01/social-links-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Social Links","type":"page","id":3460,"url":"/blocks-01/social-links-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Video Popup","type":"page","id":3481,"url":"https://themes.getmotopress.com/prime/blocks-01/video-popup-wordpress-block/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Video Popup","type":"page","id":3481,"url":"/blocks-01/video-popup-wordpress-block/","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3554</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-23 10:38:42]]></wp:post_date>
@@ -5192,31 +5192,31 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://themes.getmotopress.com/prime/?p=3565</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Accordion","type":"page","id":3506,"url":"https://themes.getmotopress.com/prime/blocks-02/accordion-wordpress-block/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Accordion","type":"page","id":3506,"url":"/blocks-02/accordion-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Advanced Heading","type":"page","id":3503,"url":"https://themes.getmotopress.com/prime/blocks-02/advanced-heading-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Advanced Heading","type":"page","id":3503,"url":"/blocks-02/advanced-heading-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Countdown","type":"page","id":3523,"url":"https://themes.getmotopress.com/prime/blocks-02/countdown-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Countdown","type":"page","id":3523,"url":"/blocks-02/countdown-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Google Maps","type":"page","id":3501,"url":"https://themes.getmotopress.com/prime/blocks-02/google-maps-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Google Maps","type":"page","id":3501,"url":"/blocks-02/google-maps-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Media \u0026amp; Text Slider","type":"page","id":3497,"url":"https://themes.getmotopress.com/prime/blocks-02/media-text-slider-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Media \u0026amp; Text Slider","type":"page","id":3497,"url":"/blocks-02/media-text-slider-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Person","type":"page","id":3519,"url":"https://themes.getmotopress.com/prime/blocks-02/person-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Person","type":"page","id":3519,"url":"/blocks-02/person-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Recent Posts","type":"page","id":3512,"url":"https://themes.getmotopress.com/prime/blocks-02/recent-posts-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Recent Posts","type":"page","id":3512,"url":"/blocks-02/recent-posts-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-submenu {"label":"Section","type":"page","id":3485,"url":"https://themes.getmotopress.com/prime/blocks-02/section-wordpress-block/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Slider background","type":"page","id":3492,"url":"https://themes.getmotopress.com/prime/blocks-02/section-wordpress-block/section-with-slider-background/","kind":"post-type"} /-->
+<!-- wp:navigation-submenu {"label":"Section","type":"page","id":3485,"url":"/blocks-02/section-wordpress-block/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Slider background","type":"page","id":3492,"url":"/blocks-02/section-wordpress-block/section-with-slider-background/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Video background","type":"page","id":3489,"url":"https://themes.getmotopress.com/prime/blocks-02/section-wordpress-block/section-with-video-background/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Video background","type":"page","id":3489,"url":"/blocks-02/section-wordpress-block/section-with-video-background/","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-link {"label":"Tabs","type":"page","id":3508,"url":"https://themes.getmotopress.com/prime/blocks-02/tabs-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Tabs","type":"page","id":3508,"url":"/blocks-02/tabs-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Testimonial","type":"page","id":3514,"url":"https://themes.getmotopress.com/prime/blocks-02/testimonial-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Testimonial","type":"page","id":3514,"url":"/blocks-02/testimonial-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Toggle","type":"page","id":3510,"url":"https://themes.getmotopress.com/prime/blocks-02/toggle-wordpress-block/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Toggle","type":"page","id":3510,"url":"/blocks-02/toggle-wordpress-block/","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3565</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-23 10:53:20]]></wp:post_date>
@@ -5240,25 +5240,25 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://themes.getmotopress.com/prime/?p=3570</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Contact Form","type":"page","id":3525,"url":"https://themes.getmotopress.com/prime/blocks-03/contact-form-wordpress-block/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Contact Form","type":"page","id":3525,"url":"/blocks-03/contact-form-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Content Timeline","type":"page","id":3550,"url":"https://themes.getmotopress.com/prime/blocks-03/content-timeline-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Content Timeline","type":"page","id":3550,"url":"/blocks-03/content-timeline-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Counter","type":"page","id":3527,"url":"https://themes.getmotopress.com/prime/blocks-03/counter-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Counter","type":"page","id":3527,"url":"/blocks-03/counter-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Image Hotspot","type":"page","id":3547,"url":"https://themes.getmotopress.com/prime/blocks-03/image-hotspot-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Image Hotspot","type":"page","id":3547,"url":"/blocks-03/image-hotspot-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"MailChimp","type":"page","id":3553,"url":"https://themes.getmotopress.com/prime/blocks-03/mailchimp-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"MailChimp","type":"page","id":3553,"url":"/blocks-03/mailchimp-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Posts Carousel","type":"page","id":3532,"url":"https://themes.getmotopress.com/prime/blocks-03/posts-carousel-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Posts Carousel","type":"page","id":3532,"url":"/blocks-03/posts-carousel-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Posts Grid/List","type":"page","id":3530,"url":"https://themes.getmotopress.com/prime/blocks-03/posts-grid-list-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Posts Grid/List","type":"page","id":3530,"url":"/blocks-03/posts-grid-list-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Posts Slider","type":"page","id":3534,"url":"https://themes.getmotopress.com/prime/blocks-03/posts-slider-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Posts Slider","type":"page","id":3534,"url":"/blocks-03/posts-slider-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Price Box","type":"page","id":3545,"url":"https://themes.getmotopress.com/prime/blocks-03/price-box-wordpress-block/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Price Box","type":"page","id":3545,"url":"/blocks-03/price-box-wordpress-block/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Price List","type":"page","id":3538,"url":"https://themes.getmotopress.com/prime/blocks-03/price-list-wordpress-block/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Price List","type":"page","id":3538,"url":"/blocks-03/price-list-wordpress-block/","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3570</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-23 11:29:00]]></wp:post_date>
@@ -5572,11 +5572,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group -->
 
 <!-- wp:getwid-megamenu/menu {"expandDropdown":true,"dropdownMaxWidth":1160,"menuItemColor":"color-4"} -->
-<!-- wp:getwid-megamenu/menu-item {"url":"https://themes.getmotopress.com/prime/","id":45,"kind":"post-type","text":"Home","textColor":"color-4"} /-->
+<!-- wp:getwid-megamenu/menu-item {"url":"/","id":45,"kind":"post-type","text":"Home","textColor":"color-4"} /-->
 
-<!-- wp:getwid-megamenu/menu-item {"url":"https://themes.getmotopress.com/prime/about-us/","id":52,"kind":"post-type","text":"About","textColor":"color-4"} /-->
+<!-- wp:getwid-megamenu/menu-item {"url":"/about-us/","id":52,"kind":"post-type","text":"About","textColor":"color-4"} /-->
 
-<!-- wp:getwid-megamenu/menu-item {"url":"https://themes.getmotopress.com/prime/blog/","id":47,"kind":"post-type","text":"Blog","textColor":"color-4"} -->
+<!-- wp:getwid-megamenu/menu-item {"url":"/blog/","id":47,"kind":"post-type","text":"Blog","textColor":"color-4"} -->
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"border":{"right":{"color":"var:preset|color|color-7","width":"1px"}},"spacing":{"padding":{"top":"50px","bottom":"50px","right":"30px","left":"30px"}}}} -->
 <div class="wp-block-column" style="border-right-color:var(--wp--preset--color--color-7);border-right-width:1px;padding-top:50px;padding-right:30px;padding-bottom:50px;padding-left:30px"><!-- wp:getwid/advanced-heading {"textColor":"color-1","titleTag":"h2","marginBottom":"25px"} -->
@@ -5668,7 +5668,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:columns -->
 <!-- /wp:getwid-megamenu/menu-item -->
 
-<!-- wp:getwid-megamenu/menu-item {"url":"https://themes.getmotopress.com/prime/about-us/","id":52,"kind":"post-type","text":"Pages","textColor":"color-4"} -->
+<!-- wp:getwid-megamenu/menu-item {"url":"/about-us/","id":52,"kind":"post-type","text":"Pages","textColor":"color-4"} -->
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0px","left":"0px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"border":{"right":{"color":"var:preset|color|color-7","width":"1px"}},"spacing":{"padding":{"top":"50px","bottom":"50px","right":"30px","left":"30px"},"blockGap":"20px"}}} -->
 <div class="wp-block-column" style="border-right-color:var(--wp--preset--color--color-7);border-right-width:1px;padding-top:50px;padding-right:30px;padding-bottom:50px;padding-left:30px"><!-- wp:getwid/icon-box {"textColor":"color-1","textAlignment":"left","icon":"far fa-image","layout":"left","iconPosition":"middle","iconSize":"25px","padding":0} -->
@@ -5702,7 +5702,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:columns -->
 <!-- /wp:getwid-megamenu/menu-item -->
 
-<!-- wp:getwid-megamenu/menu-item {"url":"https://themes.getmotopress.com/prime/contact-us/","id":59,"kind":"post-type","text":"Contact","textColor":"color-4"} /-->
+<!-- wp:getwid-megamenu/menu-item {"url":"/contact-us/","id":59,"kind":"post-type","text":"Contact","textColor":"color-4"} /-->
 <!-- /wp:getwid-megamenu/menu -->
 
 <!-- wp:buttons -->
