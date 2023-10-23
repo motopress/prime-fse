@@ -1,0 +1,50 @@
+.wp-block-pullquote {
+    border-color:  var(--wp--preset--color--color-1);
+    color: var(--wp--preset--color--color-1);
+
+    p {
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+    }
+
+    cite {
+
+    }
+
+    blockquote {
+
+        p, cite {
+
+        }
+    }
+
+    &.alignleft,
+    &.alignright {
+
+        p {
+
+        }
+    }
+
+    &.is-style-solid-color {
+
+        p {
+
+        }
+
+        cite {
+
+        }
+
+        blockquote {
+
+            &.has-text-color {
+                p, cite {
+                    color: inherit;
+                }
+            }
+        }
+    }
+}

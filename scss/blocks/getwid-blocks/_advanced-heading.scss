@@ -1,0 +1,35 @@
+.wp-block-getwid-advanced-heading  {
+
+    &.is-style-repeating-text {
+        overflow: hidden;
+
+        .wp-block-getwid-advanced-heading__content {
+
+            span {
+                position: relative;
+
+                &:after,
+                &:before {
+                    content: attr(data-text);
+                    position: absolute;
+                    opacity: .1;
+                    white-space: nowrap;
+                }
+            }
+
+            &.should-animate {
+                span {
+                    &:before {
+                        right: 101%;
+                        text-align: right;
+                    }
+
+                    &:after {
+                        left: 101%;
+                        text-align: left;
+                    }
+                }
+            }
+        }
+    }
+}

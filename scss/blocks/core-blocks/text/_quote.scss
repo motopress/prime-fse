@@ -1,0 +1,58 @@
+.wp-block-quote {
+
+    border: 0;
+    position: relative;
+    color: var(--wp--preset--color--color-1);
+    padding-left: 50px;
+    font-size: 25px;
+    @media screen and(min-width: 991px) {
+        padding-left: 100px;
+    }
+
+    &:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 20px;
+        background: currentColor;
+        height: 1px;
+        width: 30px;
+
+        @media screen and(min-width: 991px) {
+            width: 80px;
+        }
+    }
+
+    &.is-style-plain {
+        padding-left: 0;
+
+        &:before {
+            display: none;
+        }
+    }
+
+    p {
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+    }
+
+    cite {
+
+    }
+
+    &.is-style-large {
+        &:before {
+            display: none;
+        }
+
+        p {
+
+        }
+
+        cite {
+
+        }
+    }
+}

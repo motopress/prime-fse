@@ -1,0 +1,99 @@
+.wp-block-getwid-testimonial {
+    color: var(--wp--preset--color--color-9);
+    position: relative;
+
+    &.has-image {
+        .wp-block-getwid-testimonial__wrapper {
+            margin-left: 100px;
+        }
+    }
+
+    &.is-style-style-1 {
+        .wp-block-getwid-testimonial__wrapper {
+            background: var(--wp--preset--color--color-3);
+        }
+    }
+
+    &.is-style-style-2 {
+        .wp-block-getwid-testimonial__wrapper {
+            background: var(--wp--preset--color--color-2);
+        }
+    }
+
+    &.is-style-style-3 {
+        .wp-block-getwid-testimonial__wrapper {
+            background: var(--wp--preset--color--color-4);
+        }
+    }
+
+    &.is-style-style-2,
+    &.is-style-style-3 {
+
+        &.has-image {
+            .wp-block-getwid-testimonial__wrapper {
+                margin-right: 100px;
+                margin-left: auto;
+            }
+        }
+
+        .wp-block-getwid-testimonial__wrapper {
+
+            &:before {
+                right: 100px;
+                left: auto;
+            }
+        }
+
+        .wp-block-getwid-testimonial__image-wrapper {
+            right: 0;
+            left: auto;
+        }
+
+    }
+
+    .wp-block-getwid-testimonial__wrapper {
+        background: var(--wp--preset--color--color-1);
+        border-radius: 100px;
+        padding: 30px 60px;
+        z-index: 1;
+
+        &:before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 100px;
+            width: 98px;
+            height: 69px;
+            background-color: inherit;
+            z-index: -1;
+            clip-path: path('M39.9084 5.05084C44.7058 -0.701738 53.5428 -0.701728 58.3401 5.05085L95.169 49.2127C101.686 57.0279 96.1292 68.8983 85.9531 68.8983H12.2955C2.11939 68.8983 -3.43782 57.0279 3.07961 49.2127L39.9084 5.05084Z');
+        }
+
+    }
+
+    .wp-block-getwid-testimonial__content-wrapper {
+        font-size: var(--wp--preset--font-size--big);
+        font-weight: 600;
+        margin-bottom: 10px;
+        line-height: 1.28;
+    }
+
+    .wp-block-getwid-testimonial__image-wrapper {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+    }
+
+    .wp-block-getwid-testimonial__header {
+        margin: 0;
+    }
+
+    .wp-block-getwid-testimonial__heading {
+        margin: 0;
+    }
+
+    .wp-block-getwid-testimonial__title {
+        font-size: var(--wp--preset--font-size--medium);
+        line-height: 1.55;
+    }
+}

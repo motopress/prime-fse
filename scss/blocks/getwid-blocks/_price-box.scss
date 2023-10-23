@@ -1,0 +1,64 @@
+.wp-block-getwid-price-box {
+    background: var(--wp--preset--color--color-8);
+    padding: 40px 40px 60px;
+    border-radius: 10px;
+
+
+    &__title {
+        font-size: var(--wp--preset--font-size--big);
+        font-weight: 600;
+    }
+
+    & &__pricing {
+        margin-bottom: 25px;
+    }
+
+    & &__amount{
+        font-size: 100px;
+        font-weight: 700;
+        line-height: .8;
+        letter-spacing: -2px;
+    }
+
+    & &__currency {
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 32px;
+    }
+
+    & &__period {
+        font-size: 18px;
+        line-height: 28px;
+        vertical-align: top;
+    }
+
+    & &__features {
+        text-align: left;
+
+        li + li {
+            margin-top: 12px;
+        }
+
+        li {
+            position: relative;
+            padding-left: 25px;
+
+            &:before {
+                content: map-get($prime-fse-map, "check");
+                font-family: $prime-fse-font;
+                position: absolute;
+                left: 0;
+                top: -2px;
+            }
+        }
+    }
+
+
+    &.has-color-1-background-color {
+        .wp-block-button__link {
+            &:hover {
+                background: var(--wp--preset--color--color-3);
+            }
+        }
+    }
+}

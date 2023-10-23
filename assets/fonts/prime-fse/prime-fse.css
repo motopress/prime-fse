@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "prime-fse";
+    src: url("prime-fse.eot?b51ad8777923b0094892f4f1d5ed7de1#iefix") format("embedded-opentype"),
+url("prime-fse.woff2?b51ad8777923b0094892f4f1d5ed7de1") format("woff2"),
+url("prime-fse.woff?b51ad8777923b0094892f4f1d5ed7de1") format("woff");
+}
+
+i[class^="prime-fse-icon-"]:before, i[class*=" prime-fse-icon-"]:before {
+    font-family: prime-fse !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.prime-fse-icon-arrow-down:before {
+    content: "\f101";
+}
+.prime-fse-icon-check:before {
+    content: "\f102";
+}

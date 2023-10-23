@@ -1,0 +1,22 @@
+.wp-block-getwid-person {
+    &__image {
+        margin-bottom: 20px;
+
+        img {
+            border-radius: 6px;
+        }
+    }
+
+    &__title {
+        font-size: var(--wp--preset--font-size--big);
+        color: var(--wp--preset--color--color-4);
+        line-height: 1.2;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+
+    &__subtitle {
+        font-size: 1em;
+    }
+
+}

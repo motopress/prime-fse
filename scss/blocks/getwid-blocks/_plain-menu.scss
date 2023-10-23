@@ -1,0 +1,25 @@
+.gw-pm {
+
+    &-item {
+
+        &__link {
+            font-weight: 600;
+
+            &:hover {
+                a,
+                .gw-mm-item__toggle {
+                    color: var(--wp--preset--color--color-1);
+                }
+            }
+
+            a {
+                color: inherit;
+
+                &:hover {
+                    text-decoration: none;
+                }
+            }
+
+        }
+    }
+}

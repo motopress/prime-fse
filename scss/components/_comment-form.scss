@@ -1,0 +1,31 @@
+.comment-reply-title {
+    margin-bottom: 30px;
+}
+
+.comment-form {
+    margin: 0 -20px;
+
+    &:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+
+    > * {
+        padding: 0 20px;
+        float: left;
+        width: 100%;
+        margin-bottom: 25px;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    .comment-form-email,
+    .comment-form-author {
+        @media screen and(min-width: 768px) {
+            width: 50%;
+        }
+    }
+}

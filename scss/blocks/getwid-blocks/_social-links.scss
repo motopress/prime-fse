@@ -1,0 +1,12 @@
+.wp-block-getwid-social-links {
+    &__item {
+        padding: 0 .5em .5em;
+    }
+
+
+    &__link {
+        &:hover {
+            color: var(--wp--preset--color--color-3);
+        }
+    }
+}

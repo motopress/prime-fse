@@ -1,0 +1,26 @@
+{
+  "name": "prime-fse",
+  "version": "1.0.0",
+  "author": "MotoPress",
+  "license": "GPL-2.0-or-later",
+  "keywords": [
+    "WordPress",
+    "Theme"
+  ],
+  "homepage": "https://github.com/motopress/prime-fse#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motopress/prime-fse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/motopress/prime-fse/issues"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^26.13.0",
+    "node-sass": "^9.0.0"
+  },
+  "scripts": {
+    "watch": "node-sass scss/ -o ./ --output-style expanded --indent-type tab --indent-width 1 -w",
+    "compile": "node-sass sacs/ -o ./ --indent-type tab --indent-width 1 --linefeed lf --output-style expanded"
+  }
+}

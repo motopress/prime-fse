@@ -1,0 +1,39 @@
+.wp-block-query-pagination {
+
+    a {
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
+    & &-previous,
+    & &-next {
+        border: 1px solid currentColor;
+        border-radius: 6px;
+        line-height: 1;
+        padding: 11px 15px;
+
+        &-arrow {
+            font-weight: 900;
+            margin: 0 5px;
+        }
+    }
+
+    &-next {
+        &-arrow {
+
+        }
+    }
+
+    &-previous {
+        &-arrow {
+
+        }
+    }
+
+    & > &-numbers {
+        display: flex;
+        gap: 31px;
+        margin: 10px;
+    }
+}

@@ -1,0 +1,17 @@
+
+.wp-block-post-comments-form .comment-form input:not([type=submit]):not([type=checkbox]):not([type=hidden]),
+.wp-block-post-comments-form .comment-form textarea {
+    border: 1px solid var(--wp--preset--color--color-6, #adadad);
+	padding: 16px 18px;
+}
+
+.wp-block-comment-template ol {
+    padding-left: 5%;
+    @media screen and(min-width: 768px) {
+        padding-left: 15%;
+    }
+}
+
+.wp-block-post-comments-form .comment-reply-title {
+    margin-bottom: 30px;
+}

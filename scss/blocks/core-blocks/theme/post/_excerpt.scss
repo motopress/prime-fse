@@ -1,0 +1,18 @@
+.wp-block-post-excerpt__more-text {
+
+    .wp-block-post-excerpt__more-link {
+        border-radius: 6px;
+        padding: 6px 10px;
+        background-color: var(--wp--preset--color--color-4);
+        color: var(--wp--preset--color--color-9);
+        font-style: normal;
+        font-weight: 600;
+        line-height: 1.6;
+        text-decoration: none;
+
+        &:hover {
+            background-color: var(--wp--preset--color--color-1);
+            color: var(--wp--preset--color--color-9);
+        }
+    }
+}

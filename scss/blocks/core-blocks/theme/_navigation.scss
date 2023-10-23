@@ -1,0 +1,96 @@
+.wp-block-navigation {
+
+    @media screen and(max-width: 768px) {
+        gap: 15px;
+
+        .wp-block-navigation__container {
+            --navigation-layout-justification-setting: flex-start;
+        }
+
+    }
+
+    li.wp-block-navigation-item:hover {
+        > a,
+        > .wp-block-navigation-submenu__toggle {
+            color: var(--wp--preset--color--color-1);
+        }
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    &:not(.is-vertical) {
+
+        .wp-block-navigation__container {
+            > li {
+
+                > a {
+                    @media screen and(min-width: 768px) {
+                        padding: 10px;
+                    }
+                }
+
+                &.has-child {
+                    > a {
+                        padding-right: 5px;
+                    }
+                }
+            }
+
+        }
+
+    }
+
+
+    .has-child {
+
+        .wp-block-navigation__submenu-container {
+            padding: 10px 0 0 10px;
+            border: 0;
+        }
+
+        @media screen and(min-width: 768px) {
+            .wp-block-navigation__submenu-container {
+                box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.10);
+                border: 0;
+                border-radius: 0 0 6px 6px;
+                padding: 0;
+            }
+
+            li {
+                position: relative;
+
+                &:after {
+                    content: '';
+                    display: block;
+                    position: absolute;
+                    left: 20px;
+                    right: 20px;
+                    bottom: 0;
+                    height: 1px;
+                    background: var(--wp--preset--color--color-7);
+                }
+
+                &:last-child {
+                    &:after {
+                        display: none;
+                    }
+                }
+
+                > a {
+                    padding: 17px 20px;
+                }
+            }
+
+        }
+    }
+}
+
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .has-child .wp-block-navigation__submenu-container {
+    @media screen and(max-width: 768px) {
+        padding: 0;
+        margin: 10px 0 0 15px;
+        font-size: .875em;
+    }
+}

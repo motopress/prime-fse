@@ -1,0 +1,24 @@
+.wp-block-button {
+
+    &__link {
+
+        &:hover,
+        &:focus,
+        &:active,
+        &:visited {
+
+        }
+    }
+}
+
+.is-style-outline {
+
+    .wp-block-button__link:not(.has-background) {
+
+        &:hover {
+            background-color: var(--wp--preset--color--color-1);
+            border-color: var(--wp--preset--color--color-1);
+            color: var(--wp--preset--color--color-9);
+        }
+    }
+}

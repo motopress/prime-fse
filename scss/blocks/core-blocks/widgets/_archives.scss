@@ -1,0 +1,40 @@
+.wp-block-archives {
+
+    &.wp-block-archives-dropdown {
+
+        select {
+
+        }
+    }
+
+    &.wp-block-archives-list {
+
+        padding: 0;
+		list-style: none;
+
+		li {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			align-items: center;
+			border-bottom: 1px solid var(--wp--preset--color--color-7);
+			padding: 10px 0;
+			margin: 0;
+
+			&:last-child {
+				border: 0;
+			}
+		}
+
+		a {
+			color: inherit;
+			text-decoration: none;
+			min-width: 0;
+			max-width: 85%;
+
+			&:hover {
+				color: var(--wp--preset--color--color-1);
+			}
+		}
+    }
+}

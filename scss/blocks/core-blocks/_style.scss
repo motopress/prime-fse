@@ -1,0 +1,131 @@
+/* common block styles */
+@import "common";
+
+/**
+ *
+ * Media
+ *
+ **/
+
+/* wp-block-image styles */
+@import "media/image";
+
+/* wp-block-gallery styles */
+@import "media/image-gallery";
+
+/* wp-block-file styles */
+@import "media/file";
+
+/* wp-block-media-text styles */
+@import "media/media-text";
+
+/* wp-block-video styles */
+@import "media/video";
+
+/* wp-block-cover styles */
+@import "media/cover";
+
+/* wp-block-audio styles */
+@import "media/audio";
+
+/**
+ *
+ * Design
+ *
+ **/
+
+/* wp-block-group styles */
+@import "design/group";
+
+/* wp-block-button styles */
+@import "design/button";
+
+/* wp-block-columns styles */
+@import "design/columns";
+
+/* wp-block-separator styles */
+@import "design/separator";
+
+/**
+ *
+ * Text
+ *
+ **/
+
+/* wp-block-paragraph styles */
+@import "text/paragraph";
+
+/* wp-block-quote styles */
+@import "text/quote";
+
+/* wp-block-pullquote styles */
+@import "text/pullquote";
+
+/* wp-block-table styles */
+@import "text/table";
+
+/* wp-block-verse styles */
+@import "text/verse";
+
+/* wp-block-code styles */
+@import "text/code";
+
+/* wp-block-preformatted styles */
+@import "text/preformatted";
+
+/**
+ *
+ * Widgets
+ *
+ **/
+
+/* wp-block-archives styles */
+@import "widgets/archives";
+
+/* wp-block-calendar styles */
+@import "widgets/calendar";
+
+/* wp-block-categories styles */
+@import "widgets/categories";
+
+/* wp-block-latest-comments styles */
+@import "widgets/comments";
+
+/* wp-block-latest-posts styles */
+@import "widgets/posts";
+
+/* wp-block-search styles */
+@import "widgets/search";
+
+/* wp-block-rss styles */
+@import "widgets/rss";
+
+/* wp-block-page-list styles */
+@import "widgets/page-list";
+
+/**
+ *
+ * Theme
+ *
+ **/
+
+@import "theme/navigation";
+@import "theme/avatar";
+@import "theme/query-loop";
+@import "theme/pagination";
+@import "theme/titles";
+
+@import "theme/site/logo";
+@import "theme/site/tagline";
+@import "theme/site/title";
+
+@import "theme/post/author";
+@import "theme/post/categories";
+@import "theme/post/comments";
+@import "theme/post/content";
+@import "theme/post/date";
+@import "theme/post/excerpt";
+@import "theme/post/featured-image";
+@import "theme/post/navigation";
+@import "theme/post/tags";
+@import "theme/post/title";
