@@ -20,6 +20,9 @@ Hand-crafted for the Full Site Editing (FSE) era, Prime is the ultimate free Wor
 
 == Changelog ==
 
+= 1.0.1 - Oct 27 2023 =
+* Added skip links feature
+
 = 1.0.0 - Oct 23 2023 =
 * Initial release
 
