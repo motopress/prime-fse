@@ -27,7 +27,7 @@
 
 <!-- wp:getwid/icon-box {"textColor":"color-1","icon":"fas fa-envelope","layout":"left","iconPosition":"middle","iconSize":"20px","padding":0} -->
 <div class="wp-block-getwid-icon-box has-icon-left has-text-center"><div class="wp-block-getwid-icon-box__icon-container is-position-middle"><div class="wp-block-getwid-icon-box__icon-wrapper has-text-color has-color-1-color" style="font-size:20px;padding:0px"><i class="fas fa-envelope"></i></div></div><div class="wp-block-getwid-icon-box__content"><!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
-<p class="has-text-align-left" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">info@demolink.org</p>
+<p class="has-text-align-left" style="margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">info@example.com</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:getwid/icon-box --></div>
 <!-- /wp:column -->
@@ -44,7 +44,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Copyright © 2023 Prime FSE</p>
+<p>Copyright © 2023 All Rights Reserved</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

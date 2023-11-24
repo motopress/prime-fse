@@ -88,6 +88,7 @@ select {
 
 textarea {
 	width: 100%;
+	font-family: inherit;
 }
 
 label {
@@ -102,6 +103,14 @@ label:last-child {
 .breadcrumbs {
 	text-align: center;
 	font-size: 14px;
+}
+
+.breadcrumbs a {
+	text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+	text-decoration: underline;
 }
 
 .comment-reply-title {
@@ -430,7 +439,6 @@ pre.wp-block-verse {
 .wp-block-page-list {
 	padding: 0;
 	list-style: none;
-	flex-direction: column;
 }
 
 .wp-block-page-list li {
@@ -463,6 +471,15 @@ pre.wp-block-verse {
 
 .wp-block-page-list a:hover {
 	color: var(--wp--preset--color--color-1);
+}
+
+.wp-block-navigation .wp-block-page-list li {
+	border: 0;
+}
+
+.wp-block-navigation .wp-block-page-list li ul {
+	border: 0;
+	margin: 0;
 }
 
 /**
@@ -970,9 +987,6 @@ pre.wp-block-verse {
 
 .gw-mm-item__link a {
 	color: inherit;
-}
-
-.gw-mm-item__link a:hover {
 	text-decoration: none;
 }
 

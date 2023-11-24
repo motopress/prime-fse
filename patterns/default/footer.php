@@ -22,7 +22,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left">info@demolink.org</p>
+<p class="has-text-align-left">info@example.com</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -38,7 +38,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Copyright © 2023 Prime FSE</p>
+<p>Copyright © 2023 All Rights Reserved</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

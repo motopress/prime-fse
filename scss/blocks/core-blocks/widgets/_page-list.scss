@@ -1,7 +1,6 @@
 .wp-block-page-list {
     padding: 0;
     list-style: none;
-    flex-direction: column !important;
 
     li {
         display: flex;
@@ -32,6 +31,21 @@
 
         &:hover {
             color: var(--wp--preset--color--color-1);
+        }
+    }
+}
+
+.wp-block-navigation {
+
+    .wp-block-page-list {
+
+        li {
+            border: 0;
+
+            ul {
+                border: 0;
+                margin: 0;
+            }
         }
     }
 }
