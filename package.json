@@ -21,6 +21,6 @@
   },
   "scripts": {
     "watch": "node-sass scss/ -o ./ --output-style expanded --indent-type tab --indent-width 1 -w",
-    "compile": "node-sass sacs/ -o ./ --indent-type tab --indent-width 1 --linefeed lf --output-style expanded"
+    "compile": "node-sass scss/ -o ./ --indent-type tab --indent-width 1 --linefeed lf --output-style expanded"
   }
 }

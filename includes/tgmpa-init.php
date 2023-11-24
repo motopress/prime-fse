@@ -79,6 +79,10 @@ function prime_fse_register_required_plugins()
 			'name' => 'SVG Support',
 			'slug' => 'svg-support',
 		),
+		array(
+			'name' => 'Breadcrumb NavXT',
+			'slug' => 'breadcrumb-navxt',
+		),
 	);
 
 	/*
