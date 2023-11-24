@@ -2,7 +2,7 @@
 Contributors: motopress
 Tags: full-site-editing, editor-style, block-styles, block-patterns
 Requires at least: 6.3
-Tested up to: 6.3
+Tested up to: 6.4
 Requires PHP: 7.4
 Stable tag: 1.0
 License: GPLv2 or later
@@ -19,6 +19,9 @@ Hand-crafted for the Full Site Editing (FSE) era, Prime is the ultimate free Wor
 3. Click Activate to use your new theme right away.
 
 == Changelog ==
+
+= 1.0.2 - Nov 24 2023 =
+* Added conditional logic for Getwid based block patterns.
 
 = 1.0.1 - Oct 27 2023 =
 * Added skip links feature

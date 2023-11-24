@@ -117,6 +117,17 @@ function prime_fse_init() {
 		);
 	}
 
+	if ( ! function_exists( 'getwid_init' ) && function_exists( 'unregister_block_pattern' ) ) {
+		unregister_block_pattern( 'prime-fse/features-list-2' );
+		unregister_block_pattern( 'prime-fse/latest-posts' );
+		unregister_block_pattern( 'prime-fse/map-with-contacts' );
+		unregister_block_pattern( 'prime-fse/performance' );
+		unregister_block_pattern( 'prime-fse/pricing' );
+		unregister_block_pattern( 'prime-fse/team' );
+		unregister_block_pattern( 'prime-fse/testimonials' );
+		unregister_block_pattern( 'prime-fse/video-popup' );
+	}
+
 }
 
 add_action( 'init', 'prime_fse_init' );
