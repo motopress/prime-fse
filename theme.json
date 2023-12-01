@@ -385,7 +385,8 @@
 			}
 		},
 		"color": {
-			"text": "var(--wp--preset--color--color-5)"
+			"text": "var(--wp--preset--color--color-5)",
+			"background": "var(--wp--preset--color--color-9)"
 		},
 		"elements": {
 			"button": {

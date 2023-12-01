@@ -20,6 +20,12 @@ Hand-crafted for the Full Site Editing (FSE) era, Prime is the ultimate free Wor
 
 == Changelog ==
 
+= 1.0.4 - Dec 01 2023 =
+* Minor improvements.
+
+= 1.0.3 - Nov 24 2023 =
+* Minor improvements.
+
 = 1.0.2 - Nov 24 2023 =
 * Added conditional logic for Getwid based block patterns.
 
