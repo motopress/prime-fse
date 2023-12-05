@@ -117,7 +117,7 @@ function prime_fse_init() {
 		);
 	}
 
-	if ( ! function_exists( 'getwid_init' ) && function_exists( 'unregister_block_pattern' ) ) {
+	if ( ! function_exists( 'getwid' ) && function_exists( 'unregister_block_pattern' ) ) {
 		unregister_block_pattern( 'prime-fse/features-list-2' );
 		unregister_block_pattern( 'prime-fse/latest-posts' );
 		unregister_block_pattern( 'prime-fse/map-with-contacts' );
