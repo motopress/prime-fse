@@ -5,6 +5,7 @@
 
         .wp-block-navigation__container {
             --navigation-layout-justification-setting: flex-start;
+            width: 100%;
         }
 
     }
@@ -83,6 +84,23 @@
                 }
             }
 
+        }
+    }
+
+    &.is-style-pills {
+        @media screen and(min-width: 768px) {
+            .wp-block-navigation {
+                > li > .wp-block-navigation-item__content {
+                    padding: 3px 8px;
+                    border-radius: 6px;
+                }
+
+                > li > .wp-block-navigation-item__content:hover,
+                > li > .wp-block-navigation-item__content[aria-current] {
+                    color: var(--wp--preset--color--color-9);
+                    background: var(--wp--preset--color--color-1);
+                }
+            }
         }
     }
 }

@@ -1,5 +1,4 @@
 .wp-block-getwid-price-box {
-    background: var(--wp--preset--color--color-8);
     padding: 40px 40px 60px;
     border-radius: 10px;
 
@@ -53,7 +52,7 @@
         }
     }
 
-
+    // @todo: remove
     &.has-color-1-background-color {
         .wp-block-button__link {
             &:hover {

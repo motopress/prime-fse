@@ -16,9 +16,32 @@
     .wp-block-button__link:not(.has-background) {
 
         &:hover {
-            background-color: var(--wp--preset--color--color-1);
-            border-color: var(--wp--preset--color--color-1);
-            color: var(--wp--preset--color--color-9);
+            background-color: var(--wp--preset--color--color-4);
+            border-color: var(--wp--preset--color--color-4);
+            color: var(--wp--preset--color--color-9) !important;
         }
+    }
+}
+
+.is-style-underline {
+
+    .wp-block-button__link {
+        font-weight: 400;
+        padding: 6px 0;
+        border-top: 1px solid transparent;
+        border-left: 0;
+        border-right: 0;
+        color: var(--wp--preset--color--color-1);
+        border-bottom: 1px solid currentColor;
+        border-radius: 0;
+        background: transparent;
+
+        &:hover {
+            padding-bottom: 0;
+        }
+    }
+
+    .wp-block-button__link.has-background {
+        padding: 6px;
     }
 }

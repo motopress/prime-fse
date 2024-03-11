@@ -8,26 +8,7 @@
         }
     }
 
-    &.is-style-style-1 {
-        .wp-block-getwid-testimonial__wrapper {
-            background: var(--wp--preset--color--color-3);
-        }
-    }
-
-    &.is-style-style-2 {
-        .wp-block-getwid-testimonial__wrapper {
-            background: var(--wp--preset--color--color-2);
-        }
-    }
-
-    &.is-style-style-3 {
-        .wp-block-getwid-testimonial__wrapper {
-            background: var(--wp--preset--color--color-4);
-        }
-    }
-
-    &.is-style-style-2,
-    &.is-style-style-3 {
+    &.is-style-image-right {
 
         &.has-image {
             .wp-block-getwid-testimonial__wrapper {
@@ -39,8 +20,10 @@
         .wp-block-getwid-testimonial__wrapper {
 
             &:before {
-                right: 100px;
+                right: 85px;
                 left: auto;
+                transform: skewX(35deg);
+                transform-origin: bottom right;
             }
         }
 
@@ -61,12 +44,14 @@
             content: '';
             position: absolute;
             bottom: 0;
-            left: 100px;
-            width: 98px;
-            height: 69px;
+            left: 85px;
+            width: 125px;
+            height: 75px;
             background-color: inherit;
             z-index: -1;
-            clip-path: path('M39.9084 5.05084C44.7058 -0.701738 53.5428 -0.701728 58.3401 5.05085L95.169 49.2127C101.686 57.0279 96.1292 68.8983 85.9531 68.8983H12.2955C2.11939 68.8983 -3.43782 57.0279 3.07961 49.2127L39.9084 5.05084Z');
+            transform: skewX(-35deg);
+            transform-origin: bottom left;
+            // clip-path: path('M39.9084 5.05084C44.7058 -0.701738 53.5428 -0.701728 58.3401 5.05085L95.169 49.2127C101.686 57.0279 96.1292 68.8983 85.9531 68.8983H12.2955C2.11939 68.8983 -3.43782 57.0279 3.07961 49.2127L39.9084 5.05084Z');
         }
 
     }

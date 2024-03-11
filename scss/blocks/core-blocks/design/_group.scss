@@ -11,4 +11,7 @@
         }
     }
 
+    &.is-style-with-shadow {
+        box-shadow: var(--wp--preset--shadow--simple);
+    }
 }
