@@ -6,8 +6,8 @@
   */
 ?>
 
-<!-- wp:group {"align":"full","style":{"dimensions":{"minHeight":"90vh"}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
-<div class="wp-block-group alignfull" style="min-height:90vh"><!-- wp:group {"align":"full","style":{"dimensions":{"minHeight":""},"spacing":{"padding":{"top":"var:preset|spacing|x-large","right":"var:preset|spacing|normal","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|normal"},"margin":{"top":"0px","bottom":"0px"}}},"layout":{"type":"constrained","contentSize":"1160px"}} -->
+<!-- wp:group {"align":"full","style":{"dimensions":{"minHeight":"80vh"}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull" style="min-height:80vh"><!-- wp:group {"align":"full","style":{"dimensions":{"minHeight":""},"spacing":{"padding":{"top":"var:preset|spacing|x-large","right":"var:preset|spacing|normal","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|normal"},"margin":{"top":"0px","bottom":"0px"}}},"layout":{"type":"constrained","contentSize":"1160px"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--normal);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--normal)"><!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"51%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:51%"><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"30px","right":"20%"}}},"fontSize":"big"} -->
@@ -18,8 +18,8 @@
 <h2 class="wp-block-heading has-xx-huge-font-size" style="font-style:normal;font-weight:700;line-height:1;text-transform:uppercase">The blank canvas</h2>
 <!-- /wp:heading -->
 
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|large"}}}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--large)"><!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#">Explore</a></div>
 <!-- /wp:button -->
 

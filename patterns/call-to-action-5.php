@@ -17,8 +17,8 @@
 <p class="has-color-4-color has-text-color has-link-color" style="font-style:normal;font-weight:600">Join us Today</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"}},"fontSize":"x-huge"} -->
-<h2 class="wp-block-heading has-x-huge-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">WordPress revolution</h2>
+<!-- wp:heading {"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"var:preset|spacing|medium"}}},"fontSize":"x-huge"} -->
+<h2 class="wp-block-heading has-x-huge-font-size" style="margin-top:var(--wp--preset--spacing--medium);font-style:normal;font-weight:700;text-transform:uppercase">WordPress revolution</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 

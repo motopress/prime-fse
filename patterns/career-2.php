@@ -13,7 +13,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|medium","padding":{"bottom":"var:preset|spacing|normal"}},"border":{"bottom":{"color":"var:preset|color|color-7","width":"1px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="border-bottom-color:var(--wp--preset--color--color-7);border-bottom-width:1px;padding-bottom:var(--wp--preset--spacing--normal)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Marketing Manager</h2>
 <!-- /wp:heading -->
@@ -43,7 +43,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|medium","padding":{"bottom":"var:preset|spacing|normal"}},"border":{"bottom":{"color":"var:preset|color|color-7","width":"1px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="border-bottom-color:var(--wp--preset--color--color-7);border-bottom-width:1px;padding-bottom:var(--wp--preset--spacing--normal)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">Developer</h2>
 <!-- /wp:heading -->
@@ -73,7 +73,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|medium"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">SEO Specialist</h2>
 <!-- /wp:heading -->

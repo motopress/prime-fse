@@ -6,9 +6,9 @@
   */
 ?>
 
-<!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(180deg,rgb(255,255,255) 0%,rgb(255,255,255) 71%,rgb(243,243,243) 71%,rgb(243,243,243) 100%)"},"spacing":{"padding":{"top":"90px","bottom":"130px","right":"30px","left":"30px"}}},"layout":{"type":"constrained","wideSize":"1320px","contentSize":"760px"}} -->
-<div class="wp-block-group alignfull has-background" style="background:linear-gradient(180deg,rgb(255,255,255) 0%,rgb(255,255,255) 71%,rgb(243,243,243) 71%,rgb(243,243,243) 100%);padding-top:90px;padding-right:30px;padding-bottom:130px;padding-left:30px"><!-- wp:heading {"textAlign":"center","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"bottom":"60px"}}},"fontSize":"xx-huge"} -->
-<h2 class="wp-block-heading has-text-align-center has-xx-huge-font-size" style="margin-bottom:60px;font-style:normal;font-weight:700;text-transform:uppercase">The blank canvas</h2>
+<!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(180deg,rgb(255,255,255) 0%,rgb(255,255,255) 71%,rgb(243,243,243) 71%,rgb(243,243,243) 100%)"},"spacing":{"padding":{"top":"90px","bottom":"130px","right":"30px","left":"30px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background" style="background:linear-gradient(180deg,rgb(255,255,255) 0%,rgb(255,255,255) 71%,rgb(243,243,243) 71%,rgb(243,243,243) 100%);padding-top:90px;padding-right:30px;padding-bottom:130px;padding-left:30px"><!-- wp:heading {"textAlign":"center","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700","lineHeight":"1"},"spacing":{"margin":{"bottom":"70px"}}},"fontSize":"xx-huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-xx-huge-font-size" style="margin-bottom:70px;font-style:normal;font-weight:700;line-height:1;text-transform:uppercase">The blank canvas</h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"100px","left":"100px"}}}} -->

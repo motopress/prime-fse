@@ -12,7 +12,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
 <div class="wp-block-column"><!-- wp:heading -->
 <h2 class="wp-block-heading">Just a frequent question</h2>
 <!-- /wp:heading -->
@@ -38,7 +38,7 @@
 <!-- /wp:separator --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
+<!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
 <div class="wp-block-column"><!-- wp:heading -->
 <h2 class="wp-block-heading">Just a frequent question</h2>
 <!-- /wp:heading -->

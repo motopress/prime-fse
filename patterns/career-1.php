@@ -11,7 +11,7 @@
 <h2 class="wp-block-heading has-text-align-center has-x-huge-font-size" style="margin-bottom:90px;font-style:normal;font-weight:700;text-transform:uppercase">Career</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|medium","padding":{"bottom":"var:preset|spacing|normal"}},"border":{"bottom":{"color":"var:preset|color|color-7","width":"1px"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"15px","padding":{"bottom":"var:preset|spacing|normal"}},"border":{"bottom":{"color":"var:preset|color|color-7","width":"1px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="border-bottom-color:var(--wp--preset--color--color-7);border-bottom-width:1px;padding-bottom:var(--wp--preset--spacing--normal)"><!-- wp:heading -->
 <h2 class="wp-block-heading">Marketing Manager</h2>
 <!-- /wp:heading -->
@@ -35,7 +35,7 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|medium","padding":{"bottom":"var:preset|spacing|normal"}},"border":{"bottom":{"color":"var:preset|color|color-7","width":"1px"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"15px","padding":{"bottom":"var:preset|spacing|normal"}},"border":{"bottom":{"color":"var:preset|color|color-7","width":"1px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="border-bottom-color:var(--wp--preset--color--color-7);border-bottom-width:1px;padding-bottom:var(--wp--preset--spacing--normal)"><!-- wp:heading -->
 <h2 class="wp-block-heading">Developer</h2>
 <!-- /wp:heading -->
@@ -59,7 +59,7 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|medium"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"15px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading -->
 <h2 class="wp-block-heading">SEO Specialist</h2>
 <!-- /wp:heading -->

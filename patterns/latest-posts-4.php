@@ -12,7 +12,7 @@
 <!-- wp:group {"style":{"border":{"radius":"6px"},"spacing":{"blockGap":"15px","padding":{"right":"var:preset|spacing|normal","left":"var:preset|spacing|normal","top":"var:preset|spacing|normal","bottom":"var:preset|spacing|normal"}}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-color-9-background-color has-background" style="border-radius:6px;padding-top:var(--wp--preset--spacing--normal);padding-right:var(--wp--preset--spacing--normal);padding-bottom:var(--wp--preset--spacing--normal);padding-left:var(--wp--preset--spacing--normal)"><!-- wp:post-terms {"term":"category"} /-->
 
-<!-- wp:post-title /-->
+<!-- wp:post-title {"isLink":true} /-->
 
 <!-- wp:post-excerpt {"showMoreOnNewLine":false} /-->
 

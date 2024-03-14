@@ -141,8 +141,8 @@
 <!-- /wp:getwid-megamenu/menu -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"600","lineHeight":"1.6"},"border":{"radius":"6px"},"spacing":{"padding":{"left":"10px","right":"10px","top":"6px","bottom":"6px"}}}} -->
-<div class="wp-block-button has-custom-font-size" style="font-size:16px;font-style:normal;font-weight:600;line-height:1.6"><a class="wp-block-button__link wp-element-button" style="border-radius:6px;padding-top:6px;padding-right:10px;padding-bottom:6px;padding-left:10px">Download</a></div>
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"color-4","style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"600","lineHeight":"1.6"},"border":{"radius":"6px"},"spacing":{"padding":{"left":"10px","right":"10px","top":"6px","bottom":"6px"}},"elements":{"link":{"color":{"text":"var:preset|color|color-4"}}}},"className":"is-style-outline"} -->
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:16px;font-style:normal;font-weight:600;line-height:1.6"><a class="wp-block-button__link has-color-4-color has-text-color has-link-color wp-element-button" style="border-radius:6px;padding-top:6px;padding-right:10px;padding-bottom:6px;padding-left:10px">Download</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

@@ -20,6 +20,9 @@ Hand-crafted for the Full Site Editing (FSE) era, Prime is the ultimate free Wor
 
 == Changelog ==
 
+= 1.1.1 - Mar 14 2024 =
+* Minor improvements.
+
 = 1.1.0 - Mar 11 2024 =
 * Added new patterns.
 

@@ -12,27 +12,27 @@
 				},
 				{
 					"color": "#0e0e0e",
-					"name": "Color 4",
+					"name": "Color 2",
 					"slug": "color-4"
 				},
 				{
 					"color": "#fbed6e",
-					"name": "Color 2",
+					"name": "Color 3",
 					"slug": "color-2"
 				},
 				{
 					"color": "#f3f3f3",
-					"name": "Color 6",
+					"name": "Color 4",
 					"slug": "color-6"
 				},
 				{
-					"color": "#dddddd",
-					"name": "Color 7",
+					"color": "#0e0e0e33",
+					"name": "Color 5",
 					"slug": "color-7"
 				},
 				{
 					"color": "#ffffff",
-					"name": "Color 9",
+					"name": "Color 6",
 					"slug": "color-9"
 				}
 			]
@@ -40,7 +40,7 @@
 	},
 	"styles": {
 		"color": {
-			"background": "#DBECFB"
+			"background": "#c7ddf2"
 		}
 	}
 }

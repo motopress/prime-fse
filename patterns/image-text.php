@@ -14,7 +14,7 @@
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center"} -->
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
 <p>Start Today</p>
 <!-- /wp:paragraph -->
@@ -27,8 +27,8 @@
 <p>Vivamus accumsan sapien vel pulvinar volutpat. Duis nisi augue, consectetur eget ornare eu, malesuada sit amet enim. Sed mollis nulla eget elementum tristique.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|normal"}}}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--normal)"><!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#">Explore</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>

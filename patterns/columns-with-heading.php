@@ -8,7 +8,7 @@
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|normal","left":"var:preset|spacing|normal","top":"var:preset|spacing|normal","bottom":"var:preset|spacing|normal"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--normal);padding-right:var(--wp--preset--spacing--normal);padding-bottom:var(--wp--preset--spacing--normal);padding-left:var(--wp--preset--spacing--normal)"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"35px"}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700","lineHeight":"1"}},"fontSize":"x-huge"} -->
 <h2 class="wp-block-heading has-x-huge-font-size" style="font-style:normal;font-weight:700;line-height:1;text-transform:uppercase">Smart and Intuitive</h2>
 <!-- /wp:heading -->
@@ -18,7 +18,7 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"style":{"spacing":{"blockGap":"35px"}}} -->
+<!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"textColor":"color-1","fontSize":"big"} -->
 <p class="has-color-1-color has-text-color has-big-font-size">Designed for your ideas and makes<br>the block editor your best tool</p>
 <!-- /wp:paragraph -->

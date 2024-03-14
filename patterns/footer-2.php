@@ -18,8 +18,14 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|large"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="margin-bottom:var(--wp--preset--spacing--large)">Copyright © 2023 All Rights Reserved</p>
+<p class="has-text-align-center has-small-font-size" style="margin-bottom:var(--wp--preset--spacing--large)">Copyright © 2024 All Rights Reserved</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:navigation {"ref":4127,"showSubmenuIcon":false,"overlayMenu":"never","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} /--></div>
+<!-- wp:navigation {"showSubmenuIcon":false,"overlayMenu":"never","layout":{"type":"flex","justifyContent":"center"},"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
+<!-- wp:navigation-link {"label":"Home","url":"#"} /-->
+<!-- wp:navigation-link {"label":"About","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Blog","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Contact","url":"#"} /-->
+<!-- /wp:navigation --></div>
+
 <!-- /wp:group -->

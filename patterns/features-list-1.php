@@ -13,7 +13,7 @@
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"},"blockGap":"var:preset|spacing|medium"},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-color-9-background-color has-background" style="border-color:#dddddd;border-width:1px;border-radius:8px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:image {"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/icons/edit.svg' ) ); ?>" alt=""/></figure>
 <!-- /wp:image -->
@@ -29,7 +29,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"border":{"width":"1px","color":"#dddddd","radius":"8px"},"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"},"blockGap":"var:preset|spacing|medium"},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-color-9-background-color has-background" style="border-color:#dddddd;border-width:1px;border-radius:8px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:image {"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/icons/piechart.svg' ) ); ?>" alt=""/></figure>
 <!-- /wp:image -->
@@ -45,7 +45,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"},"blockGap":"var:preset|spacing|medium"},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-color-9-background-color has-background" style="border-color:#dddddd;border-width:1px;border-radius:8px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:image {"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/icons/cog.svg' ) ); ?>" alt=""/></figure>
 <!-- /wp:image -->
@@ -63,7 +63,7 @@
 
 <!-- wp:columns {"style":{"spacing":{"margin":{"bottom":"0px"}}}} -->
 <div class="wp-block-columns" style="margin-bottom:0px"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"},"blockGap":"var:preset|spacing|medium"},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-color-9-background-color has-background" style="border-color:#dddddd;border-width:1px;border-radius:8px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:image {"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/icons/comment.svg' ) ); ?>" alt=""/></figure>
 <!-- /wp:image -->
@@ -79,7 +79,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"},"blockGap":"var:preset|spacing|medium"},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-color-9-background-color has-background" style="border-color:#dddddd;border-width:1px;border-radius:8px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:image {"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/icons/zoom.svg' ) ); ?>" alt=""/></figure>
 <!-- /wp:image -->
@@ -95,7 +95,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"},"blockGap":"var:preset|spacing|medium"},"border":{"width":"1px","color":"#dddddd","radius":"8px"}},"backgroundColor":"color-9","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-color-9-background-color has-background" style="border-color:#dddddd;border-width:1px;border-radius:8px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:image {"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/icons/image.svg' ) ); ?>" alt=""/></figure>
 <!-- /wp:image -->

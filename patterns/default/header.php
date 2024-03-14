@@ -6,7 +6,15 @@
 <!-- wp:site-title {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}},"typography":{"fontSize":"30px","fontStyle":"normal","fontWeight":"800","textDecoration":"none"}},"textColor":"color-4"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:navigation {"ref":152,"textColor":"color-4","overlayTextColor":"color-5","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"center"},"style":{"typography":[],"spacing":{"blockGap":""},"layout":{"selfStretch":"fill","flexSize":null}},"fontFamily":"sora"} /-->
+<!-- wp:navigation {"textColor":"color-4","overlayTextColor":"color-5","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"center"},"style":{"typography":[],"spacing":{"blockGap":""},"layout":{"selfStretch":"fill","flexSize":null}},"fontFamily":"sora"} -->
+
+<!-- wp:navigation-link {"label":"Home","url":"#"} /-->
+<!-- wp:navigation-link {"label":"About","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Blog","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Pages","url":"#"} /-->
+<!-- wp:navigation-link {"label":"Contact","url":"#"} /-->
+
+<!-- /wp:navigation -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"color-4","style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"600","lineHeight":"1.6"},"border":{"radius":"6px"},"spacing":{"padding":{"left":"10px","right":"10px","top":"6px","bottom":"6px"}},"elements":{"link":{"color":{"text":"var:preset|color|color-4"}}}},"className":"is-style-outline"} -->

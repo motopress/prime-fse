@@ -1,0 +1,47 @@
+.wp-block-getwid-toggle {
+
+    .wp-block-getwid-toggle__row {
+
+        &:first-child {
+            .wp-block-getwid-toggle__header-wrapper {
+                border-color: var(--wp--preset--color--color-7);
+            }
+        }
+
+        .wp-block-getwid-toggle__header-wrapper {
+            border-color: var(--wp--preset--color--color-7);
+        }
+
+        .wp-block-getwid-toggle__header {
+
+            a {
+
+            }
+        }
+
+        .wp-block-getwid-toggle__header-title {
+
+        }
+
+        .wp-block-getwid-toggle__icon {
+
+            i {
+
+            }
+        }
+
+        .wp-block-getwid-toggle__content {
+            border-color: var(--wp--preset--color--color-7);
+        }
+
+    }
+
+    &.has-icon-left {
+        .wp-block-getwid-toggle__row {
+
+            .wp-block-getwid-toggle__icon {
+
+            }
+        }
+    }
+}

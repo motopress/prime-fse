@@ -10,7 +10,7 @@
 
 	return array(
 		array(
-            'import_file_name' => 'Prime FSE Demo',
+			'import_file_name' => 'Prime FSE Demo',
 			'import_file_url' => 'https://raw.githubusercontent.com/motopress/prime-fse/master/assets/demo-data/prime.xml',
 			'preview_url' => 'https://themes.getmotopress.com/prime',
 		)

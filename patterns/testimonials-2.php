@@ -8,8 +8,8 @@
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"130px","bottom":"130px","right":"30px","left":"30px"}}},"backgroundColor":"color-6","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-color-6-background-color has-background" style="padding-top:130px;padding-right:30px;padding-bottom:130px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px","margin":{"bottom":"90px"}}},"layout":{"type":"constrained","contentSize":"840px"}} -->
-<div class="wp-block-group alignwide" style="margin-bottom:90px"><!-- wp:heading {"textAlign":"center","align":"wide","fontSize":"huge"} -->
-<h2 class="wp-block-heading alignwide has-text-align-center has-huge-font-size">Explore the various patterns as you create your personalized web experience.</h2>
+<div class="wp-block-group alignwide" style="margin-bottom:90px"><!-- wp:heading {"textAlign":"center","align":"wide","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"bottom":"var:preset|spacing|large"}}},"fontSize":"x-huge"} -->
+<h2 class="wp-block-heading alignwide has-text-align-center has-x-huge-font-size" style="margin-bottom:var(--wp--preset--spacing--large);font-style:normal;font-weight:700;text-transform:uppercase">Testimonials</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"#fbb500"}}},"color":{"text":"#fbb500"},"typography":{"lineHeight":"1"}},"fontSize":"big"} -->

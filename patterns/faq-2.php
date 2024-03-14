@@ -44,7 +44,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We’ve built an entire dashboard around the Ollie experience. Access docs, a video library, and the site wizard right from within your WordPress dashboard.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend leo non quam elementum pretium. Nam pretium tincidunt ligula non porttitor. Quisque fringilla at eros ut laoreet.</p>
 <!-- /wp:paragraph -->
 <!-- wp:separator {"style":{"spacing":{"margin":{"top":"30px","bottom":"30px"}}},"className":"is-style-wide"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide" style="margin-top:30px;margin-bottom:30px"/>
@@ -55,7 +55,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We’ve built an entire dashboard around the Ollie experience. Access docs, a video library, and the site wizard right from within your WordPress dashboard.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend leo non quam elementum pretium. Nam pretium tincidunt ligula non porttitor. Quisque fringilla at eros ut laoreet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"style":{"spacing":{"margin":{"top":"30px","bottom":"30px"}}},"className":"is-style-wide"} -->
@@ -67,7 +67,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We’ve built an entire dashboard around the Ollie experience. Access docs, a video library, and the site wizard right from within your WordPress dashboard.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend leo non quam elementum pretium. Nam pretium tincidunt ligula non porttitor. Quisque fringilla at eros ut laoreet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"style":{"spacing":{"margin":{"top":"30px","bottom":"30px"}}},"className":"is-style-wide"} -->

@@ -8,7 +8,7 @@
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"140px"}}}} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":""} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"","style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
 <div class="wp-block-column"><!-- wp:paragraph -->
 <p>Start Today</p>
 <!-- /wp:paragraph -->
@@ -21,8 +21,8 @@
 <p>Vivamus accumsan sapien vel pulvinar volutpat. Duis nisi augue, consectetur eget ornare eu, malesuada sit amet enim. Sed mollis nulla eget elementum tristique.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"40px"}}}} -->
-<div class="wp-block-buttons" style="margin-bottom:40px"><!-- wp:button -->
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|normal","bottom":"var:preset|spacing|large"}}}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--normal);margin-bottom:var(--wp--preset--spacing--large)"><!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#">Explore</a></div>
 <!-- /wp:button -->
 

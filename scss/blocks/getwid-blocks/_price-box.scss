@@ -51,13 +51,4 @@
             }
         }
     }
-
-    // @todo: remove
-    &.has-color-1-background-color {
-        .wp-block-button__link {
-            &:hover {
-                background: var(--wp--preset--color--color-3);
-            }
-        }
-    }
 }

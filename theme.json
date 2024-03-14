@@ -51,7 +51,7 @@
 					"slug": "color-6"
 				},
 				{
-					"color": "#dddddd",
+					"color": "#0e0e0e33",
 					"name": "Color 5",
 					"slug": "color-7"
 				},
@@ -557,8 +557,18 @@
 			"area": "header"
 		},
 		{
+			"name": "simple-header",
+			"title": "Simple header",
+			"area": "header"
+		},
+		{
 			"name": "footer",
 			"title": "Footer",
+			"area": "footer"
+		},
+		{
+			"name": "footer-2",
+			"title": "Footer 2",
 			"area": "footer"
 		},
 		{
