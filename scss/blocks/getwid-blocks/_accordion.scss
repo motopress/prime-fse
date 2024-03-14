@@ -1,0 +1,32 @@
+.wp-block-getwid-accordion {
+
+    .wp-block-getwid-accordion__header {
+
+        a {
+
+        }
+    }
+
+    .wp-block-getwid-accordion__header-wrapper {
+        border-color: var(--wp--preset--color--color-7);
+
+        &:first-child {
+            border-color: var(--wp--preset--color--color-7);
+        }
+
+        &.ui-state-active,
+        &:hover {
+            a {
+
+            }
+        }
+    }
+
+    .wp-block-getwid-accordion__icon {
+
+    }
+
+    .wp-block-getwid-accordion__content {
+        border-color: var(--wp--preset--color--color-7);
+    }
+}

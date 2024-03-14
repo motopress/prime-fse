@@ -3,4 +3,20 @@
     .wp-block-cover__inner-container {
 
     }
+
+    &.is-style-bg-auto {
+
+        .wp-block-cover__image-background,
+        video.wp-block-cover__video-background {
+            object-fit: none;
+        }
+    }
+
+    &.is-style-bg-contain {
+
+        .wp-block-cover__image-background,
+        video.wp-block-cover__video-background {
+            object-fit: contain;
+        }
+    }
 }

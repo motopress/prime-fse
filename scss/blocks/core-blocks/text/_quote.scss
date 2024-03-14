@@ -1,32 +1,32 @@
 .wp-block-quote {
 
     border: 0;
+    margin-top: 30px;
+    border-top: 1px solid var(--wp--preset--color--color-7);
     position: relative;
-    color: var(--wp--preset--color--color-1);
-    padding-left: 50px;
-    font-size: 25px;
-    @media screen and(min-width: 991px) {
-        padding-left: 100px;
-    }
+    padding-left: 55px;
+    padding-top: 35px;
 
-    &:before {
-        content: '';
+    &:after {
+        content: url('assets/images/quote.svg');
         position: absolute;
         left: 0;
-        top: 20px;
-        background: currentColor;
-        height: 1px;
-        width: 30px;
+        top: 40px;
+        height: 30px;
+        width: 36px;
+    }
 
-        @media screen and(min-width: 991px) {
-            width: 80px;
+    > * {
+
+        &:first-child {
+            margin-top: 0;
         }
     }
 
     &.is-style-plain {
         padding-left: 0;
 
-        &:before {
+        &:after {
             display: none;
         }
     }
@@ -39,11 +39,14 @@
     }
 
     cite {
-
+        display: block;
+        margin-top: 12px;
+        color: var(--wp--preset--color--color-4);
+        font-size: inherit;
     }
 
     &.is-style-large {
-        &:before {
+        &:after {
             display: none;
         }
 
@@ -53,6 +56,33 @@
 
         cite {
 
+        }
+    }
+
+    &.is-style-decorated {
+        padding-left: 0;
+        padding-top: 65px;
+        border: 0;
+
+        > * {
+            position: relative;
+        }
+
+        &:after {
+            left: 0;
+            top: 0;
+        }
+
+        &:before {
+            content: '';
+            display: block;
+            width: 88px;
+            height: 88px;
+            background: #f3f3f3;
+            border-radius: 20px 20px 20px 0;
+            position: absolute;
+            left: -15px;
+            top: 57px;
         }
     }
 }

@@ -19,7 +19,7 @@ add_action( 'after_setup_theme', 'prime_fse_support' );
 
 if ( ! function_exists( 'prime_fse_styles' ) ) :
 
-    function prime_fse_styles() {
+	function prime_fse_styles() {
 
 		wp_register_style(
 			'prime-fse-style',
@@ -63,6 +63,54 @@ add_filter( 'comment_form_fields', 'prime_fse_comment_form_default_fields' );
 function prime_fse_init() {
 
 	register_block_style(
+		'core/cover',
+		array(
+			'name' => 'bg-auto',
+			'label' => __( 'BG Size Auto', 'prime-fse' )
+		)
+	);
+
+	register_block_style(
+		'core/cover',
+		array(
+			'name' => 'bg-contain',
+			'label' => __( 'BG Size Contain', 'prime-fse' )
+		)
+	);
+
+	register_block_style(
+		'core/button',
+		array(
+			'name' => 'underline',
+			'label' => __( 'Underline', 'prime-fse' )
+		)
+	);
+
+	register_block_style(
+		'core/group',
+		array(
+			'name' => 'with-shadow',
+			'label' => __( 'With Shadow', 'prime-fse' )
+		)
+	);
+
+	register_block_style(
+		'core/quote',
+		array(
+			'name' => 'decorated',
+			'label' => __( 'Decorated', 'prime-fse' )
+		)
+	);
+
+	register_block_style(
+		'core/navigation',
+		array(
+			'name' => 'pills',
+			'label' => __( 'Pills', 'prime-fse' )
+		)
+	);
+
+	register_block_style(
 		'getwid/advanced-heading',
 		array(
 			'name' => 'repeating-text',
@@ -89,24 +137,8 @@ function prime_fse_init() {
 	register_block_style(
 		'getwid/testimonial',
 		array(
-			'name' => 'style-1',
-			'label' => __( 'Style 1', 'prime-fse' )
-		)
-	);
-
-	register_block_style(
-		'getwid/testimonial',
-		array(
-			'name' => 'style-2',
-			'label' => __( 'Style 2', 'prime-fse' )
-		)
-	);
-
-	register_block_style(
-		'getwid/testimonial',
-		array(
-			'name' => 'style-3',
-			'label' => __( 'Style 3', 'prime-fse' )
+			'name' => 'image-right',
+			'label' => __( 'Image Right', 'prime-fse' )
 		)
 	);
 
@@ -118,13 +150,7 @@ function prime_fse_init() {
 	}
 
 	if ( ! function_exists( 'getwid' ) && function_exists( 'unregister_block_pattern' ) ) {
-		unregister_block_pattern( 'prime-fse/features-list-2' );
-		unregister_block_pattern( 'prime-fse/latest-posts' );
-		unregister_block_pattern( 'prime-fse/map-with-contacts' );
-		unregister_block_pattern( 'prime-fse/performance' );
-		unregister_block_pattern( 'prime-fse/pricing' );
-		unregister_block_pattern( 'prime-fse/team' );
-		unregister_block_pattern( 'prime-fse/testimonials' );
+		unregister_block_pattern( 'prime-fse/testimonials-1' );
 		unregister_block_pattern( 'prime-fse/video-popup' );
 	}
 

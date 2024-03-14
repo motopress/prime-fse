@@ -20,6 +20,12 @@ Hand-crafted for the Full Site Editing (FSE) era, Prime is the ultimate free Wor
 
 == Changelog ==
 
+= 1.1.1 - Mar 14 2024 =
+* Minor improvements.
+
+= 1.1.0 - Mar 11 2024 =
+* Added new patterns.
+
 = 1.0.6 - Jan 30 2024 =
 * Update theme description.
 
@@ -59,5 +65,16 @@ Prime FSE is distributed under the terms of the GNU GPL.
 * Screenshot is created by us
     License: GPL v2 or later
 
-* All the icons and images used in the patterns and stored assets/images are created by us.
+* All media licensed under Creative Commons Zero (CC0):
+    assets/images/image-6.jpg, assets/images/image-1.jpg - https://pxhere.com/en/photo/944600
+    assets/images/image-2.jpg - https://www.pexels.com/photo/silver-imac-on-white-table-7058
+    assets/images/image-3.jpg - https://stocksnap.io/photo/business-man-PPCJBQW2PL
+    assets/images/image-4.jpg - https://www.pexels.com/photo/ping-pong-racket-and-ball-7087
+    assets/images/image-5.jpg - https://stocksnap.io/photo/business-man-6NYVPE6NEB
+    assets/images/image-7.jpg, assets/images/team/team-1.jpg, assets/images/team/small/team-1.jpg - https://pxhere.com/en/photo/1629588
+    assets/images/team/team-2.jpg, assets/images/team/small/team-2.jpg - https://stocksnap.io/photo/business-man-7BQNRHB6EX
+    assets/images/team/team-3.jpg, assets/images/team/small/team-3.jpg - https://stocksnap.io/photo/business-woman-S81ZPXJZUU
+    assets/images/team/team-4.jpg, assets/images/team/small/team-4.jpg - https://stocksnap.io/photo/business-man-NHW7CBJDFM
+
+* All the other icons and images used in the patterns and stored assets/images are created by us.
     License: GPL v2 or later
