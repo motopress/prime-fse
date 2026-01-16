@@ -2,7 +2,7 @@
 Contributors: motopress
 Tags: full-site-editing, editor-style, block-styles, block-patterns
 Requires at least: 6.3
-Tested up to: 6.4
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.0
 License: GPLv2 or later
@@ -19,6 +19,9 @@ Hand-crafted for the Full Site Editing (FSE) era, Prime is the ultimate free Wor
 3. Click Activate to use your new theme right away.
 
 == Changelog ==
+
+= 1.1.2 - Jan 16 2026 =
+* WordPress 6.9 compatibility.
 
 = 1.1.1 - Mar 14 2024 =
 * Minor improvements.
